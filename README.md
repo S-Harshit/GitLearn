@@ -1,2 +1,2 @@
 # GitLearn
-# Manipulating commits
+# Manipulating commit
